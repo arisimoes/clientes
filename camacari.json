@@ -1,12 +1,12 @@
 [
   {
-    "key" : "reframax",
+    "key" : "CCR1036-Concentrador: Interface <pppoe-rframax>(): Operational status",
     "name" : "REFRAMAX",
     "latitude" : -12.6606,
     "longitude" : -38.3145
   },
   {
-    "key" : "lojagt",
+    "key" : "CCR1036-Concentrador: Interface <pppoe-novaminasatual>(): Operational status",
     "name" : "LOJAGT",
     "latitude" : -12.6931,
     "longitude" : -38.3298
